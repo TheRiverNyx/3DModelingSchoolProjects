@@ -1,6 +1,3 @@
 [submodule "Assets\\Tools\\AnthonyTools"]
 	path = Assets\\Tools\\AnthonyTools
 	url = https://github.com/anthonyromrell/ArtisanDream.Tools
-[submodule "Assets/Tools"]
-	path = Assets/Tools
-	url = https://github.com/anthonyromrell/ArtisanDream.Tools
